@@ -1,6 +1,6 @@
 # Library Management System (Simplified Beginner Python OOP)
 
-A simple, beginner-friendly **Library Management System** written in 100% standard Python using Object-Oriented Programming (OOP) and JSON files. No external packages (`pip install`) are required!
+A simple, beginner-friendly **Library Management System** written in 100% standard Python using Object-Oriented Programming (OOP) and JSON files.
 
 ## How to Run
 

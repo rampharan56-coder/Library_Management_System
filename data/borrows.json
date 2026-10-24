@@ -1,0 +1,24 @@
+[
+  {
+    "record_id": 1001,
+    "member_id": 1,
+    "member_name": "Sokha Chan",
+    "book_id": 1,
+    "book_title": "Clean Code",
+    "borrow_date": "2026-10-10",
+    "due_date": "2026-10-24",
+    "status": "Returned",
+    "return_date": "2026-10-20"
+  },
+  {
+    "record_id": 1002,
+    "member_id": 2,
+    "member_name": "Dara Pich",
+    "book_id": 3,
+    "book_title": "Python Crash Course",
+    "borrow_date": "2026-10-20",
+    "due_date": "2026-11-03",
+    "status": "Borrowed",
+    "return_date": null
+  }
+]

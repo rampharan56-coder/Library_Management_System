@@ -1,6 +1,6 @@
 # Library Management System
 
-A simple, beginner-friendly **Library Management System** written Python using Object-Oriented Programming (OOP) and JSON files.
+**Library Management System** written Python using Object-Oriented Programming (OOP) and JSON files.
 
 ## How to Run
 
